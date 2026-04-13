@@ -1,0 +1,23 @@
+{
+  "windows": [
+    {
+      "path": "C:\\Users\\%USERNAME%\\Desktop",
+      "label": "Desktop",
+      "position": { "left": 0, "top": 0, "width": 800, "height": 600 }
+    },
+    {
+      "path": "C:\\Users\\%USERNAME%\\Documents",
+      "label": "Documents",
+      "position": { "left": 820, "top": 0, "width": 800, "height": 600 }
+    },
+    {
+      "path": "C:\\Users\\%USERNAME%\\Downloads",
+      "label": "Downloads",
+      "position": { "left": 0, "top": 620, "width": 800, "height": 600 }
+    }
+  ],
+  "settings": {
+    "delay_between_windows_ms": 300,
+    "restore_previous_session": false
+  }
+}
