@@ -1,9 +1,4 @@
-
-
-
-
-
-
+https://chatgpt.com/share/69e86536-1868-83e8-a8cc-a1d117065430
 
 
 Uploaded image
