@@ -1,0 +1,3 @@
+﻿===== Windows Sandbox Check =====
+ERROR: The requested operation requires elevation.
+

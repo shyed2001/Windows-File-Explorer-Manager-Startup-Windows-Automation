@@ -1,0 +1,3 @@
+﻿===== Enabled Optional Features =====
+ERROR: The requested operation requires elevation.
+

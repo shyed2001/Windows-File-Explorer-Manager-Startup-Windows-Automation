@@ -1,0 +1,16 @@
+===== Hyper-V Services =====
+
+ Status Name               DisplayName
+ ------ ----               -----------
+Running hns                Host Network Service
+Running HvHost             HV Host Service
+Running vmcompute          Hyper-V Host Compute Service
+Stopped vmicguestinterface Hyper-V Guest Service Interface
+Stopped vmicheartbeat      Hyper-V Heartbeat Service
+Stopped vmickvpexchange    Hyper-V Data Exchange Service
+Stopped vmicrdv            Hyper-V Remote Desktop Virtualization Service
+Stopped vmicshutdown       Hyper-V Guest Shutdown Service
+Stopped vmictimesync       Hyper-V Time Synchronization Service
+Stopped vmicvmsession      Hyper-V PowerShell Direct Service
+Stopped vmicvss            Hyper-V Volume Shadow Copy Requestor
+

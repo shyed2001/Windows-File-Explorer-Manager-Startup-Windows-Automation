@@ -1,0 +1,35 @@
+===== BCDEdit Hypervisor Boot =====
+
+Windows Boot Manager
+--------------------
+identifier              {bootmgr}
+device                  partition=\Device\HarddiskVolume5
+path                    \EFI\Microsoft\Boot\bootmgfw.efi
+description             Windows Boot Manager
+locale                  en-GB
+inherit                 {globalsettings}
+default                 {current}
+resumeobject            {d1b6d342-d955-11ef-888f-806e6f6e6963}
+displayorder            {current}
+toolsdisplayorder       {memdiag}
+timeout                 30
+
+Windows Boot Loader
+-------------------
+identifier              {current}
+device                  partition=C:
+path                    \Windows\system32\winload.efi
+description             Windows 10
+locale                  en-GB
+inherit                 {bootloadersettings}
+recoverysequence        {54072873-c930-11ef-9e2e-fe3d4ab60fff}
+displaymessageoverride  Recovery
+recoveryenabled         Yes
+isolatedcontext         Yes
+allowedinmemorysettings 0x15000075
+osdevice                partition=C:
+systemroot              \Windows
+resumeobject            {d1b6d342-d955-11ef-888f-806e6f6e6963}
+nx                      OptIn
+bootmenupolicy          Standard
+hypervisorlaunchtype    Auto

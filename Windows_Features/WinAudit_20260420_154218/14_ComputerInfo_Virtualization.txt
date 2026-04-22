@@ -1,0 +1,10 @@
+===== ComputerInfo Virtualization Summary =====
+
+HyperVisorPresent           : True
+BiosFirmwareType            : Uefi
+CsProcessors                : {12th Gen Intel(R) Core(TM) i5-12500}
+CsNumberOfLogicalProcessors : 12
+OsName                      : Microsoft Windows 11 Pro
+OsVersion                   : 10.0.26200
+WindowsBuildLabEx           : 26100.1.amd64fre.ge_release.240331-1435
+

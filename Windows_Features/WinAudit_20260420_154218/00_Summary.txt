@@ -1,0 +1,11 @@
+Audit completed successfully.
+Output folder: C:\Users\User\Desktop\WinAudit_20260420_154218
+
+Key files to inspect first:
+  00_Summary.txt
+  02_EnabledOptionalFeatures.txt
+  03_TargetFeatureStatus.txt
+  05_BCDedit_Hypervisor.txt
+  09_WSL_Status.txt
+  10_Sandbox_Check.txt
+  12_DeviceGuard_VBS.txt

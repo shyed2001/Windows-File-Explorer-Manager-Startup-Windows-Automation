@@ -1,0 +1,2 @@
+===== Hyper-V Virtual Switches =====
+Get-VMSwitch not available.

@@ -1,0 +1,11 @@
+===== Memory Integrity Registry =====
+
+WasEnabledBy  : 1
+Enabled       : 1
+EnabledBootId : 0
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios
+PSChildName   : HypervisorEnforcedCodeIntegrity
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+

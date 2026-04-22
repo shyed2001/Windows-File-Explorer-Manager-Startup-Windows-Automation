@@ -1,0 +1,16 @@
+﻿===== System Info =====
+ComputerName: DESKTOP-NAF9NIA
+UserName: User
+DateTime: 04/20/2026 15:43:21
+
+
+WindowsProductName : Windows 10 Pro
+WindowsVersion     : 2009
+OsBuildNumber      : 26200
+OsArchitecture     : 64-bit
+BiosFirmwareType   : Uefi
+CsSystemType       : x64-based PC
+HyperVisorPresent  : True
+
+
+

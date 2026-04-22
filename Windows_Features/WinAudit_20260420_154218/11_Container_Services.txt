@@ -1,0 +1,9 @@
+===== Container Related Services =====
+
+ Status Name                           DisplayName
+ ------ ----                           -----------
+Running hns                            Host Network Service
+Running NvContainerLocalSystem         NVIDIA LocalSystem Container
+Running NVDisplay.ContainerLocalSystem NVIDIA Display Container LS
+Running vmcompute                      Hyper-V Host Compute Service
+

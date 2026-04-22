@@ -1,0 +1,38 @@
+===== Network Adapters =====
+
+Status               : Disconnected
+Name                 : Bluetooth Network Connection
+InterfaceDescription : Bluetooth Device (Personal Area Network)
+LinkSpeed            : 3 Mbps
+MacAddress           : E0-C2-64-77-14-A0
+
+Status               : Disconnected
+Name                 : Local Area Connection
+InterfaceDescription : TeamViewer VPN Adapter
+LinkSpeed            : 1 Gbps
+MacAddress           : 00-FF-95-F6-99-47
+
+Status               : Disconnected
+Name                 : WiFi
+InterfaceDescription : Intel(R) Wi-Fi 6E AX211 160MHz
+LinkSpeed            : 0 bps
+MacAddress           : E0-C2-64-77-14-9C
+
+Status               : Up
+Name                 : Ethernet
+InterfaceDescription : Intel(R) Ethernet Connection (17) I219-LM
+LinkSpeed            : 1 Gbps
+MacAddress           : 64-4E-D7-68-5A-40
+
+Status               : Up
+Name                 : Tailscale
+InterfaceDescription : Tailscale Tunnel
+LinkSpeed            : 100 Gbps
+MacAddress           : 
+
+Status               : Up
+Name                 : vEthernet (WSL (Hyper-V firewall))
+InterfaceDescription : Hyper-V Virtual Ethernet Adapter
+LinkSpeed            : 10 Gbps
+MacAddress           : 00-15-5D-C6-A4-6D
+
