@@ -8,7 +8,7 @@ Canonical AI/tooling index:
 
 Local folder:
 
-`F:\GitHubDesktop\GitHubCloneFiles\Windows-File-Explorer-Manager-Startup-Windows-Automation`
+`F:\GitHubDesktop\GitHubCloneFiles\AI_Prompts_Planning_Master_Copy`
 
 Read order for agents and IDEs:
 

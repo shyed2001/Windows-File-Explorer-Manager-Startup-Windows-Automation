@@ -1,4 +1,4 @@
-# Cursor Rules
+# Claude
 
 <!-- BEGIN SHYED AI TOOLING POLICY -->
 
