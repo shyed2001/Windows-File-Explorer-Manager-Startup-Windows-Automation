@@ -1,8 +1,6 @@
-No file path provided — compressing inline text directly per rules.
-
 # AI Tooling Cross References Pointer
 
-Repo uses compact refs, no duplicate global AI/tooling policy.
+This repo uses compact references instead of duplicating global AI/tooling policy.
 
 Canonical source:
 
@@ -26,4 +24,4 @@ Local folder:
 
 Fallback:
 
-Local repo first, canonical refs second, tool defaults third. Ask before: global installs, MCP/hook changes, lockfile replace, destructive edits, pkg-manager migration.
+Use local repo instructions first, canonical refs second, tool defaults third. Ask before global installs, MCP/hook changes, lockfile replacement, destructive edits, or package-manager migration.
